@@ -1,0 +1,41 @@
+tech,index,name,file
+mono,1,Красный яркий,mono/01_красный_яркий.webp
+mono,2,Черный,mono/02_черный.webp
+mono,3,Графит,mono/03_графит.webp
+mono,4,Светло-серый,mono/04_светло-серый.webp
+mono,5,Жёлтый (горчичный),mono/05_жёлтый_горчичный.webp
+mono,6,Коричневый,mono/06_коричневый.webp
+mono,7,Светло-коричневый,mono/07_светло-коричневый.webp
+mono,8,Терракот,mono/08_терракот.webp
+mono,9,Белый,mono/09_белый.webp
+mono,10,Желтый-яркий,mono/10_желтый-яркий.webp
+mono,11,Серые оттенки,mono/11_серые_оттенки.webp
+mono,12,Красный,mono/12_красный.webp
+colormix,1,Кара-Даг,colormix/01_кара-даг.webp
+colormix,2,Аю-Даг,colormix/02_аю-даг.webp
+colormix,3,Беляус,colormix/03_беляус.webp
+colormix,4,Ай-Петри,colormix/04_ай-петри.webp
+colormix,5,Херсонес,colormix/05_херсонес.webp
+colormix,6,Неаполь,colormix/06_неаполь.webp
+colormix,7,Новый свет,colormix/07_новый_свет.webp
+colormix,8,Гурзуф,colormix/08_гурзуф.webp
+colormix,9,Форос,colormix/09_форос.webp
+colormix,10,Золотые ворота,colormix/10_золотые_ворота.webp
+colormix,11,Коктебель,colormix/11_коктебель.webp
+colormix,12,Солнечная долина,colormix/12_солнечная_долина.webp
+stonemix,1,Старый Крым,stonemix/01_старый_крым.webp
+stonemix,2,Старый Крым черный,stonemix/02_старый_крым_черный.webp
+stonemix,3,Старый Крым белый,stonemix/03_старый_крым_белый.webp
+stonemix,4,Ласпи,stonemix/04_ласпи.webp
+stonemix,5,Казантип,stonemix/05_казантип.webp
+stonemix,6,Кара-Даг,stonemix/06_кара-даг.webp
+stonemix,7,Неаполь,stonemix/07_неаполь.webp
+stonemix,8,Новый свет,stonemix/08_новый_свет.webp
+stonemix,9,Беляус,stonemix/09_беляус.webp
+stonemix,10,Коктебель,stonemix/10_коктебель.webp
+stonemix,11,Терракот,stonemix/11_терракот.webp
+stonemix,12,Каламит,stonemix/12_каламит.webp
+stonemix,13,Херсонес,stonemix/13_херсонес.webp
+stonemix,14,Старый Крым графит,stonemix/14_старый_крым_графит.webp
+stonemix,15,Старый Крым темный,stonemix/15_старый_крым_темный.webp
+stonemix,16,Старый Крым черно-белый,stonemix/16_старый_крым_черно-белый.webp

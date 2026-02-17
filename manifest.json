@@ -1,0 +1,242 @@
+[
+  {
+    "tech": "mono",
+    "index": 1,
+    "name": "Красный яркий",
+    "file": "mono/01_красный_яркий.webp"
+  },
+  {
+    "tech": "mono",
+    "index": 2,
+    "name": "Черный",
+    "file": "mono/02_черный.webp"
+  },
+  {
+    "tech": "mono",
+    "index": 3,
+    "name": "Графит",
+    "file": "mono/03_графит.webp"
+  },
+  {
+    "tech": "mono",
+    "index": 4,
+    "name": "Светло-серый",
+    "file": "mono/04_светло-серый.webp"
+  },
+  {
+    "tech": "mono",
+    "index": 5,
+    "name": "Жёлтый (горчичный)",
+    "file": "mono/05_жёлтый_горчичный.webp"
+  },
+  {
+    "tech": "mono",
+    "index": 6,
+    "name": "Коричневый",
+    "file": "mono/06_коричневый.webp"
+  },
+  {
+    "tech": "mono",
+    "index": 7,
+    "name": "Светло-коричневый",
+    "file": "mono/07_светло-коричневый.webp"
+  },
+  {
+    "tech": "mono",
+    "index": 8,
+    "name": "Терракот",
+    "file": "mono/08_терракот.webp"
+  },
+  {
+    "tech": "mono",
+    "index": 9,
+    "name": "Белый",
+    "file": "mono/09_белый.webp"
+  },
+  {
+    "tech": "mono",
+    "index": 10,
+    "name": "Желтый-яркий",
+    "file": "mono/10_желтый-яркий.webp"
+  },
+  {
+    "tech": "mono",
+    "index": 11,
+    "name": "Серые оттенки",
+    "file": "mono/11_серые_оттенки.webp"
+  },
+  {
+    "tech": "mono",
+    "index": 12,
+    "name": "Красный",
+    "file": "mono/12_красный.webp"
+  },
+  {
+    "tech": "colormix",
+    "index": 1,
+    "name": "Кара-Даг",
+    "file": "colormix/01_кара-даг.webp"
+  },
+  {
+    "tech": "colormix",
+    "index": 2,
+    "name": "Аю-Даг",
+    "file": "colormix/02_аю-даг.webp"
+  },
+  {
+    "tech": "colormix",
+    "index": 3,
+    "name": "Беляус",
+    "file": "colormix/03_беляус.webp"
+  },
+  {
+    "tech": "colormix",
+    "index": 4,
+    "name": "Ай-Петри",
+    "file": "colormix/04_ай-петри.webp"
+  },
+  {
+    "tech": "colormix",
+    "index": 5,
+    "name": "Херсонес",
+    "file": "colormix/05_херсонес.webp"
+  },
+  {
+    "tech": "colormix",
+    "index": 6,
+    "name": "Неаполь",
+    "file": "colormix/06_неаполь.webp"
+  },
+  {
+    "tech": "colormix",
+    "index": 7,
+    "name": "Новый свет",
+    "file": "colormix/07_новый_свет.webp"
+  },
+  {
+    "tech": "colormix",
+    "index": 8,
+    "name": "Гурзуф",
+    "file": "colormix/08_гурзуф.webp"
+  },
+  {
+    "tech": "colormix",
+    "index": 9,
+    "name": "Форос",
+    "file": "colormix/09_форос.webp"
+  },
+  {
+    "tech": "colormix",
+    "index": 10,
+    "name": "Золотые ворота",
+    "file": "colormix/10_золотые_ворота.webp"
+  },
+  {
+    "tech": "colormix",
+    "index": 11,
+    "name": "Коктебель",
+    "file": "colormix/11_коктебель.webp"
+  },
+  {
+    "tech": "colormix",
+    "index": 12,
+    "name": "Солнечная долина",
+    "file": "colormix/12_солнечная_долина.webp"
+  },
+  {
+    "tech": "stonemix",
+    "index": 1,
+    "name": "Старый Крым",
+    "file": "stonemix/01_старый_крым.webp"
+  },
+  {
+    "tech": "stonemix",
+    "index": 2,
+    "name": "Старый Крым черный",
+    "file": "stonemix/02_старый_крым_черный.webp"
+  },
+  {
+    "tech": "stonemix",
+    "index": 3,
+    "name": "Старый Крым белый",
+    "file": "stonemix/03_старый_крым_белый.webp"
+  },
+  {
+    "tech": "stonemix",
+    "index": 4,
+    "name": "Ласпи",
+    "file": "stonemix/04_ласпи.webp"
+  },
+  {
+    "tech": "stonemix",
+    "index": 5,
+    "name": "Казантип",
+    "file": "stonemix/05_казантип.webp"
+  },
+  {
+    "tech": "stonemix",
+    "index": 6,
+    "name": "Кара-Даг",
+    "file": "stonemix/06_кара-даг.webp"
+  },
+  {
+    "tech": "stonemix",
+    "index": 7,
+    "name": "Неаполь",
+    "file": "stonemix/07_неаполь.webp"
+  },
+  {
+    "tech": "stonemix",
+    "index": 8,
+    "name": "Новый свет",
+    "file": "stonemix/08_новый_свет.webp"
+  },
+  {
+    "tech": "stonemix",
+    "index": 9,
+    "name": "Беляус",
+    "file": "stonemix/09_беляус.webp"
+  },
+  {
+    "tech": "stonemix",
+    "index": 10,
+    "name": "Коктебель",
+    "file": "stonemix/10_коктебель.webp"
+  },
+  {
+    "tech": "stonemix",
+    "index": 11,
+    "name": "Терракот",
+    "file": "stonemix/11_терракот.webp"
+  },
+  {
+    "tech": "stonemix",
+    "index": 12,
+    "name": "Каламит",
+    "file": "stonemix/12_каламит.webp"
+  },
+  {
+    "tech": "stonemix",
+    "index": 13,
+    "name": "Херсонес",
+    "file": "stonemix/13_херсонес.webp"
+  },
+  {
+    "tech": "stonemix",
+    "index": 14,
+    "name": "Старый Крым графит",
+    "file": "stonemix/14_старый_крым_графит.webp"
+  },
+  {
+    "tech": "stonemix",
+    "index": 15,
+    "name": "Старый Крым темный",
+    "file": "stonemix/15_старый_крым_темный.webp"
+  },
+  {
+    "tech": "stonemix",
+    "index": 16,
+    "name": "Старый Крым черно-белый",
+    "file": "stonemix/16_старый_крым_черно-белый.webp"
+  }
+]
