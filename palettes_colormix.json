@@ -1,0 +1,83 @@
+{
+  "tech": "colormix",
+  "title": "ColorMix",
+  "colors": [
+    {
+      "tech": "colormix",
+      "index": 1,
+      "id": "ai_petri",
+      "name": "Ай-Петри",
+      "file": "technologies/colormix/colors/ai_petri.webp"
+    },
+    {
+      "tech": "colormix",
+      "index": 2,
+      "id": "ayu_dag",
+      "name": "Аю-Даг",
+      "file": "technologies/colormix/colors/ayu_dag.webp"
+    },
+    {
+      "tech": "colormix",
+      "index": 3,
+      "id": "gurzuf",
+      "name": "Гурзуф",
+      "file": "technologies/colormix/colors/gurzuf.webp"
+    },
+    {
+      "tech": "colormix",
+      "index": 4,
+      "id": "zolotye_vorota",
+      "name": "Золотые ворота",
+      "file": "technologies/colormix/colors/zolotye_vorota.webp"
+    },
+    {
+      "tech": "colormix",
+      "index": 5,
+      "id": "kara_dag",
+      "name": "Кара-Даг",
+      "file": "technologies/colormix/colors/kara_dag.webp"
+    },
+    {
+      "tech": "colormix",
+      "index": 6,
+      "id": "koktebel",
+      "name": "Коктебель",
+      "file": "technologies/colormix/colors/koktebel.webp"
+    },
+    {
+      "tech": "colormix",
+      "index": 7,
+      "id": "neapol",
+      "name": "Неаполь",
+      "file": "technologies/colormix/colors/neapol.webp"
+    },
+    {
+      "tech": "colormix",
+      "index": 8,
+      "id": "novyi_svet",
+      "name": "Новый свет",
+      "file": "technologies/colormix/colors/novyi_svet.webp"
+    },
+    {
+      "tech": "colormix",
+      "index": 9,
+      "id": "solnechnaya_dolina",
+      "name": "Солнечная долина",
+      "file": "technologies/colormix/colors/solnechnaya_dolina.webp"
+    },
+    {
+      "tech": "colormix",
+      "index": 10,
+      "id": "foros",
+      "name": "Форос",
+      "file": "technologies/colormix/colors/foros.webp"
+    },
+    {
+      "tech": "colormix",
+      "index": 11,
+      "id": "hersones",
+      "name": "Херсонес",
+      "file": "technologies/colormix/colors/hersones.webp"
+    }
+  ]
+}

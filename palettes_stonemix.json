@@ -1,0 +1,81 @@
+{
+  "tech": "stonemix",
+  "title": "StoneMix",
+  "size": [
+    320,
+    320
+  ],
+  "format": "webp_lossless_transparentpad",
+  "colors": [
+    {
+      "id": "v-m",
+      "name": "╨Ъ╨╛╨║╤В╨╡╨▒╨╡╨╗╤М",
+      "file": "technologies/stonemix/colors/v-m.webp"
+    },
+    {
+      "id": "a-f",
+      "name": "╨Ъ╨░╤А╨░-╨Ф╨░╨│",
+      "file": "technologies/stonemix/colors/a-f.webp"
+    },
+    {
+      "id": "v",
+      "name": "╨Ъ╨░╨╖╨░╨╜╤В╨╕╨┐",
+      "file": "technologies/stonemix/colors/v.webp"
+    },
+    {
+      "id": "v_2",
+      "name": "╨Ъ╨░╨╗╨░╨╝╨╕╤В",
+      "file": "technologies/stonemix/colors/v_2.webp"
+    },
+    {
+      "id": "v_3",
+      "name": "╨Ъ╨░╨╗╨░╨╝╨╕╤В",
+      "file": "technologies/stonemix/colors/v_3.webp"
+    },
+    {
+      "id": "y-b",
+      "name": "╨Ы╨░╤Б╨┐╨╕",
+      "file": "technologies/stonemix/colors/y-b.webp"
+    },
+    {
+      "id": "e-l-zh-b-v",
+      "name": "╨Э╨╛╨▓╤Л╨╕╠Ж ╤Б╨▓╨╡╤В",
+      "file": "technologies/stonemix/colors/e-l-zh-b-v.webp"
+    },
+    {
+      "id": "e-m",
+      "name": "╨Э╨╡╨░╨┐╨╛╨╗╤М",
+      "file": "technologies/stonemix/colors/e-m.webp"
+    },
+    {
+      "id": "b-v-a-l-zh-a-l-v-l-zh",
+      "name": "╨б╤В╨░╤А╤Л╨╕╠Ж ╨Ъ╤А╤Л╨╝ ╤В╨╡╨╝╨╜╤Л╨╕╠Ж",
+      "file": "technologies/stonemix/colors/b-v-a-l-zh-a-l-v-l-zh.webp"
+    },
+    {
+      "id": "b-v-a-l-zh-a-l-z-a-l-zh",
+      "name": "╨б╤В╨░╤А╤Л╨╕╠Ж ╨Ъ╤А╤Л╨╝ ╤З╨╡╤А╨╜╤Л╨╕╠Ж",
+      "file": "technologies/stonemix/colors/b-v-a-l-zh-a-l-z-a-l-zh.webp"
+    },
+    {
+      "id": "b-v-a-l-zh-a-l-z-a-l-zh_2",
+      "name": "╨б╤В╨░╤А╤Л╨╕╠Ж ╨Ъ╤А╤Л╨╝ ╤З╨╡╤А╨╜╨╛-╨▒╨╡╨╗╤Л╨╕╠Ж",
+      "file": "technologies/stonemix/colors/b-v-a-l-zh-a-l-z-a-l-zh_2.webp"
+    },
+    {
+      "id": "b-v-a-l-zh-a-l-a-d-v",
+      "name": "╨б╤В╨░╤А╤Л╨╕╠Ж ╨Ъ╤А╤Л╨╝ ╨│╤А╨░╤Д╨╕╤В",
+      "file": "technologies/stonemix/colors/b-v-a-l-zh-a-l-a-d-v.webp"
+    },
+    {
+      "id": "b-v-a-l-zh-a-l-l-zh",
+      "name": "╨б╤В╨░╤А╤Л╨╕╠Ж ╨Ъ╤А╤Л╨╝ ╨▒╨╡╨╗╤Л╨╕╠Ж",
+      "file": "technologies/stonemix/colors/b-v-a-l-zh-a-l-l-zh.webp"
+    },
+    {
+      "id": "v-a-a-v",
+      "name": "╨в╨╡╤А╤А╨░╨║╨╛╤В",
+      "file": "technologies/stonemix/colors/v-a-a-v.webp"
+    }
+  ]
+}
