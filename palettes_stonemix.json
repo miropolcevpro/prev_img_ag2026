@@ -28,54 +28,54 @@
       "file": "technologies/stonemix/colors/v_2.webp"
     },
     {
-      "id": "v_3",
+      "id": "t_2",
       "name": "Каламит",
-      "file": "technologies/stonemix/colors/v_3.webp"
+      "file": "technologies/stonemix/colors/t_2.webp"
     },
     {
-      "id": "y-b",
+      "id": "g",
       "name": "Ласпи",
-      "file": "technologies/stonemix/colors/y-b.webp"
+      "file": "technologies/stonemix/colors/g.webp"
     },
     {
-      "id": "e-l-zh-b-v",
-      "name": "Новый свет",
-      "file": "technologies/stonemix/colors/e-l-zh-b-v.webp"
+      "id": "e_2",
+      "name": "Новый свет",
+      "file": "technologies/stonemix/colors/e_2.webp"
     },
     {
-      "id": "e-m",
+      "id": "z_2",
       "name": "Неаполь",
-      "file": "technologies/stonemix/colors/e-m.webp"
+      "file": "technologies/stonemix/colors/z_2.webp"
     },
     {
-      "id": "b-v-a-l-zh-a-l-v-l-zh",
-      "name": "Старый Крым темный",
-      "file": "technologies/stonemix/colors/b-v-a-l-zh-a-l-v-l-zh.webp"
+      "id": "a-m",
+      "name": "Старый Крым темный",
+      "file": "technologies/stonemix/colors/a-m.webp"
     },
     {
-      "id": "b-v-a-l-zh-a-l-z-a-l-zh",
-      "name": "Старый Крым черный",
-      "file": "technologies/stonemix/colors/b-v-a-l-zh-a-l-z-a-l-zh.webp"
+      "id": "v_4",
+      "name": "Старый Крым черный",
+      "file": "technologies/stonemix/colors/v_4.webp"
     },
     {
-      "id": "b-v-a-l-zh-a-l-z-a-l-zh_2",
-      "name": "Старый Крым черно-белый",
-      "file": "technologies/stonemix/colors/b-v-a-l-zh-a-l-z-a-l-zh_2.webp"
+      "id": "a",
+      "name": "Старый Крым черно-белый",
+      "file": "technologies/stonemix/colors/a.webp"
     },
     {
-      "id": "b-v-a-l-zh-a-l-a-d-v",
-      "name": "Старый Крым графит",
-      "file": "technologies/stonemix/colors/b-v-a-l-zh-a-l-a-d-v.webp"
+      "id": "g_2",
+      "name": "Старый Крым графит",
+      "file": "technologies/stonemix/colors/g_2.webp"
     },
     {
-      "id": "b-v-a-l-zh-a-l-l-zh",
-      "name": "Старый Крым белый",
-      "file": "technologies/stonemix/colors/b-v-a-l-zh-a-l-l-zh.webp"
+      "id": "p",
+      "name": "Старый Крым белый",
+      "file": "technologies/stonemix/colors/p.webp"
     },
     {
-      "id": "v-a-a-v",
+      "id": "t",
       "name": "Терракот",
-      "file": "technologies/stonemix/colors/v-a-a-v.webp"
+      "file": "technologies/stonemix/colors/t.webp"
     }
   ]
 }
