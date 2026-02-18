@@ -1,0 +1,224 @@
+[
+  {
+    "tech": "stonemix",
+    "id": "v-m",
+    "name": "Коктебель",
+    "file": "technologies/stonemix/colors/technologies/stonemix/colors/v-m.webp"
+  },
+  {
+    "tech": "stonemix",
+    "id": "a-f",
+    "name": "Кара-Даг",
+    "file": "technologies/stonemix/colors/technologies/stonemix/colors/a-f.webp"
+  },
+  {
+    "tech": "stonemix",
+    "id": "v",
+    "name": "Казантип",
+    "file": "technologies/stonemix/colors/technologies/stonemix/colors/v.webp"
+  },
+  {
+    "tech": "stonemix",
+    "id": "v_2",
+    "name": "Каламит",
+    "file": "technologies/stonemix/colors/technologies/stonemix/colors/v_2.webp"
+  },
+  {
+    "tech": "stonemix",
+    "id": "v_3",
+    "name": "Каламит",
+    "file": "technologies/stonemix/colors/technologies/stonemix/colors/v_3.webp"
+  },
+  {
+    "tech": "stonemix",
+    "id": "y-b",
+    "name": "Ласпи",
+    "file": "technologies/stonemix/colors/technologies/stonemix/colors/y-b.webp"
+  },
+  {
+    "tech": "stonemix",
+    "id": "e-l-zh-b-v",
+    "name": "Новый свет",
+    "file": "technologies/stonemix/colors/technologies/stonemix/colors/e-l-zh-b-v.webp"
+  },
+  {
+    "tech": "stonemix",
+    "id": "e-m",
+    "name": "Неаполь",
+    "file": "technologies/stonemix/colors/technologies/stonemix/colors/e-m.webp"
+  },
+  {
+    "tech": "stonemix",
+    "id": "b-v-a-l-zh-a-l-v-l-zh",
+    "name": "Старый Крым темный",
+    "file": "technologies/stonemix/colors/technologies/stonemix/colors/b-v-a-l-zh-a-l-v-l-zh.webp"
+  },
+  {
+    "tech": "stonemix",
+    "id": "b-v-a-l-zh-a-l-z-a-l-zh",
+    "name": "Старый Крым черный",
+    "file": "technologies/stonemix/colors/technologies/stonemix/colors/b-v-a-l-zh-a-l-z-a-l-zh.webp"
+  },
+  {
+    "tech": "stonemix",
+    "id": "b-v-a-l-zh-a-l-z-a-l-zh_2",
+    "name": "Старый Крым черно-белый",
+    "file": "technologies/stonemix/colors/technologies/stonemix/colors/b-v-a-l-zh-a-l-z-a-l-zh_2.webp"
+  },
+  {
+    "tech": "stonemix",
+    "id": "b-v-a-l-zh-a-l-a-d-v",
+    "name": "Старый Крым графит",
+    "file": "technologies/stonemix/colors/technologies/stonemix/colors/b-v-a-l-zh-a-l-a-d-v.webp"
+  },
+  {
+    "tech": "stonemix",
+    "id": "b-v-a-l-zh-a-l-l-zh",
+    "name": "Старый Крым белый",
+    "file": "technologies/stonemix/colors/technologies/stonemix/colors/b-v-a-l-zh-a-l-l-zh.webp"
+  },
+  {
+    "tech": "stonemix",
+    "id": "v-a-a-v",
+    "name": "Терракот",
+    "file": "technologies/stonemix/colors/technologies/stonemix/colors/v-a-a-v.webp"
+  },
+  {
+    "tech": "colormix",
+    "id": "ai_petri",
+    "name": "Ай-Петри",
+    "file": "technologies/colormix/colors/technologies/colormix/colors/ai_petri.webp"
+  },
+  {
+    "tech": "colormix",
+    "id": "ayu_dag",
+    "name": "Аю-Даг",
+    "file": "technologies/colormix/colors/technologies/colormix/colors/ayu_dag.webp"
+  },
+  {
+    "tech": "colormix",
+    "id": "gurzuf",
+    "name": "Гурзуф",
+    "file": "technologies/colormix/colors/technologies/colormix/colors/gurzuf.webp"
+  },
+  {
+    "tech": "colormix",
+    "id": "zolotye_vorota",
+    "name": "Золотые ворота",
+    "file": "technologies/colormix/colors/technologies/colormix/colors/zolotye_vorota.webp"
+  },
+  {
+    "tech": "colormix",
+    "id": "kara_dag",
+    "name": "Кара-Даг",
+    "file": "technologies/colormix/colors/technologies/colormix/colors/kara_dag.webp"
+  },
+  {
+    "tech": "colormix",
+    "id": "koktebel",
+    "name": "Коктебель",
+    "file": "technologies/colormix/colors/technologies/colormix/colors/koktebel.webp"
+  },
+  {
+    "tech": "colormix",
+    "id": "neapol",
+    "name": "Неаполь",
+    "file": "technologies/colormix/colors/technologies/colormix/colors/neapol.webp"
+  },
+  {
+    "tech": "colormix",
+    "id": "novyi_svet",
+    "name": "Новый свет",
+    "file": "technologies/colormix/colors/technologies/colormix/colors/novyi_svet.webp"
+  },
+  {
+    "tech": "colormix",
+    "id": "solnechnaya_dolina",
+    "name": "Солнечная долина",
+    "file": "technologies/colormix/colors/technologies/colormix/colors/solnechnaya_dolina.webp"
+  },
+  {
+    "tech": "colormix",
+    "id": "foros",
+    "name": "Форос",
+    "file": "technologies/colormix/colors/technologies/colormix/colors/foros.webp"
+  },
+  {
+    "tech": "colormix",
+    "id": "hersones",
+    "name": "Херсонес",
+    "file": "technologies/colormix/colors/technologies/colormix/colors/hersones.webp"
+  },
+  {
+    "tech": "mono",
+    "id": "belyy",
+    "name": "Белый",
+    "file": "technologies/mono/colors/technologies/mono/colors/belyy.webp"
+  },
+  {
+    "tech": "mono",
+    "id": "grafit",
+    "name": "Графит",
+    "file": "technologies/mono/colors/technologies/mono/colors/grafit.webp"
+  },
+  {
+    "tech": "mono",
+    "id": "zheltyy_yarkiy",
+    "name": "Желтый-яркий",
+    "file": "technologies/mono/colors/technologies/mono/colors/zheltyy_yarkiy.webp"
+  },
+  {
+    "tech": "mono",
+    "id": "zheltyy_gorchichnyy",
+    "name": "Жёлтый (горчичный)",
+    "file": "technologies/mono/colors/technologies/mono/colors/zheltyy_gorchichnyy.webp"
+  },
+  {
+    "tech": "mono",
+    "id": "korichnevyy",
+    "name": "Коричневый",
+    "file": "technologies/mono/colors/technologies/mono/colors/korichnevyy.webp"
+  },
+  {
+    "tech": "mono",
+    "id": "krasnyy_yarkiy",
+    "name": "Красный яркий",
+    "file": "technologies/mono/colors/technologies/mono/colors/krasnyy_yarkiy.webp"
+  },
+  {
+    "tech": "mono",
+    "id": "krasnyy",
+    "name": "Красный",
+    "file": "technologies/mono/colors/technologies/mono/colors/krasnyy.webp"
+  },
+  {
+    "tech": "mono",
+    "id": "svetlo_korichnevyy",
+    "name": "Светло-коричневый",
+    "file": "technologies/mono/colors/technologies/mono/colors/svetlo_korichnevyy.webp"
+  },
+  {
+    "tech": "mono",
+    "id": "svetlo_seryy",
+    "name": "Светло-серый",
+    "file": "technologies/mono/colors/technologies/mono/colors/svetlo_seryy.webp"
+  },
+  {
+    "tech": "mono",
+    "id": "serye_ottenki",
+    "name": "Серые оттенки",
+    "file": "technologies/mono/colors/technologies/mono/colors/serye_ottenki.webp"
+  },
+  {
+    "tech": "mono",
+    "id": "terrakot",
+    "name": "Терракот",
+    "file": "technologies/mono/colors/technologies/mono/colors/terrakot.webp"
+  },
+  {
+    "tech": "mono",
+    "id": "chernyy",
+    "name": "Черный",
+    "file": "technologies/mono/colors/technologies/mono/colors/chernyy.webp"
+  }
+]
