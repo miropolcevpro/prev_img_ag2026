@@ -8,74 +8,69 @@
   "format": "webp_lossless_transparentpad",
   "colors": [
     {
-      "id": "v-m",
-      "name": "Коктебель",
-      "file": "technologies/stonemix/colors/v-m.webp"
-    },
-    {
-      "id": "a-f",
-      "name": "Кара-Даг",
-      "file": "technologies/stonemix/colors/a-f.webp"
-    },
-    {
-      "id": "v",
-      "name": "Казантип",
-      "file": "technologies/stonemix/colors/v.webp"
-    },
-    {
-      "id": "v_2",
-      "name": "Каламит",
-      "file": "technologies/stonemix/colors/v_2.webp"
-    },
-    {
-      "id": "t_2",
-      "name": "Каламит",
-      "file": "technologies/stonemix/colors/t_2.webp"
-    },
-    {
-      "id": "g",
-      "name": "Ласпи",
-      "file": "technologies/stonemix/colors/g.webp"
-    },
-    {
-      "id": "e_2",
-      "name": "Новый свет",
-      "file": "technologies/stonemix/colors/e_2.webp"
-    },
-    {
-      "id": "z_2",
-      "name": "Неаполь",
-      "file": "technologies/stonemix/colors/z_2.webp"
-    },
-    {
-      "id": "a-m",
-      "name": "Старый Крым темный",
-      "file": "technologies/stonemix/colors/a-m.webp"
-    },
-    {
-      "id": "v_4",
-      "name": "Старый Крым черный",
-      "file": "technologies/stonemix/colors/v_4.webp"
-    },
-    {
-      "id": "a",
-      "name": "Старый Крым черно-белый",
-      "file": "technologies/stonemix/colors/a.webp"
-    },
-    {
-      "id": "g_2",
+      "id": "staryy_krym_grafit",
       "name": "Старый Крым графит",
-      "file": "technologies/stonemix/colors/g_2.webp"
+      "file": "technologies/stonemix/colors/staryy_krym_grafit.webp"
     },
     {
-      "id": "p",
+      "id": "staryy_krym_cherno_belyy",
+      "name": "Старый Крым черно-белый",
+      "file": "technologies/stonemix/colors/staryy_krym_cherno_belyy.webp"
+    },
+    {
+      "id": "novyy_svet",
+      "name": "Новый свет",
+      "file": "technologies/stonemix/colors/novyy_svet.webp"
+    },
+    {
+      "id": "staryy_krym_temnyy",
+      "name": "Старый Крым темный",
+      "file": "technologies/stonemix/colors/staryy_krym_temnyy.webp"
+    },
+    {
+      "id": "koktebel",
+      "name": "Коктебель",
+      "file": "technologies/stonemix/colors/koktebel.webp"
+    },
+    {
+      "id": "kara_dag",
+      "name": "Кара-Даг",
+      "file": "technologies/stonemix/colors/kara_dag.webp"
+    },
+    {
+      "id": "kalamit",
+      "name": "Каламит",
+      "file": "technologies/stonemix/colors/kalamit.webp"
+    },
+    {
+      "id": "staryy_krym_belyy",
       "name": "Старый Крым белый",
-      "file": "technologies/stonemix/colors/p.webp"
+      "file": "technologies/stonemix/colors/staryy_krym_belyy.webp"
     },
     {
-      "id": "t",
+      "id": "terrakot",
       "name": "Терракот",
-      "file": "technologies/stonemix/colors/t.webp"
+      "file": "technologies/stonemix/colors/terrakot.webp"
+    },
+    {
+      "id": "staryy_krym_chernyy",
+      "name": "Старый Крым черный",
+      "file": "technologies/stonemix/colors/staryy_krym_chernyy.webp"
+    },
+    {
+      "id": "laspi",
+      "name": "Ласпи",
+      "file": "technologies/stonemix/colors/laspi.webp"
+    },
+    {
+      "id": "kazantip",
+      "name": "Казантип",
+      "file": "technologies/stonemix/colors/kazantip.webp"
+    },
+    {
+      "id": "neapol",
+      "name": "Неаполь",
+      "file": "technologies/stonemix/colors/neapol.webp"
     }
   ]
 }
