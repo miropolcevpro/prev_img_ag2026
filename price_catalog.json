@@ -24,8 +24,8 @@
               "stonemix": 2624.1027
             },
             "packaging": {
-              "pcs_per_pallet": "192\n240\n240\n336\n240",
-              "pcs_per_m2": "97,50\n107,40\n120,90\n136,70\n159,50 ",
+              "pieces_per_pallet": "192 / 240 / 240 / 336 / 240",
+              "pieces_per_m2": "97,50 / 107,40 / 120,90 / 136,70 / 159,50",
               "m2_per_pallet": 10.2,
               "pallet_weight_kg": 1400.0
             }
@@ -48,8 +48,8 @@
               "stonemix": 2336.3766
             },
             "packaging": {
-              "pcs_per_pallet": 576,
-              "pcs_per_m2": 50,
+              "pieces_per_pallet": 576.0,
+              "pieces_per_m2": 50.0,
               "m2_per_pallet": 11.52,
               "pallet_weight_kg": 1560.0
             }
@@ -66,8 +66,8 @@
               "stonemix": 3046.0332
             },
             "packaging": {
-              "pcs_per_pallet": 432,
-              "pcs_per_m2": 50,
+              "pieces_per_pallet": 432.0,
+              "pieces_per_m2": 50.0,
               "m2_per_pallet": 8.64,
               "pallet_weight_kg": 1610.0
             }
@@ -90,8 +90,8 @@
               "stonemix": "-"
             },
             "packaging": {
-              "pcs_per_pallet": 40,
-              "pcs_per_m2": 4.17,
+              "pieces_per_pallet": 40.0,
+              "pieces_per_m2": 4.17,
               "m2_per_pallet": 9.6,
               "pallet_weight_kg": 1070.0
             }
@@ -114,8 +114,8 @@
               "stonemix": 2392.2951
             },
             "packaging": {
-              "pcs_per_pallet": 840,
-              "pcs_per_m2": 75.06,
+              "pieces_per_pallet": 840.0,
+              "pieces_per_m2": 75.06,
               "m2_per_pallet": 11.2,
               "pallet_weight_kg": 1430.0
             }
@@ -138,8 +138,8 @@
               "stonemix": 3349.0098
             },
             "packaging": {
-              "pcs_per_pallet": 40,
-              "pcs_per_m2": 5.555555555555556,
+              "pieces_per_pallet": 40.0,
+              "pieces_per_m2": 5.555555555555556,
               "m2_per_pallet": 7.2,
               "pallet_weight_kg": 1300.0
             }
@@ -162,8 +162,8 @@
               "stonemix": 1730.4234
             },
             "packaging": {
-              "pcs_per_pallet": "160\n160\n160",
-              "pcs_per_m2": "39,06\n31,25\n26,04",
+              "pieces_per_pallet": "160 / 160 / 160",
+              "pieces_per_m2": "39,06 / 31,25 / 26,04",
               "m2_per_pallet": 15.36,
               "pallet_weight_kg": 1475.0
             }
@@ -180,8 +180,8 @@
               "stonemix": 2336.3766
             },
             "packaging": {
-              "pcs_per_pallet": "120\n120\n120",
-              "pcs_per_m2": "39,06\n31,25\n26,04",
+              "pieces_per_pallet": "120 / 120 / 120",
+              "pieces_per_m2": "39,06 / 31,25 / 26,04",
               "m2_per_pallet": 11.52,
               "pallet_weight_kg": 1560.0
             }
@@ -198,8 +198,8 @@
               "stonemix": 3046.0332
             },
             "packaging": {
-              "pcs_per_pallet": "90\n90\n90                  ",
-              "pcs_per_m2": "39.06\n31.25\n26.04",
+              "pieces_per_pallet": "90 / 90 / 90",
+              "pieces_per_m2": "39.06 / 31.25 / 26.04",
               "m2_per_pallet": 8.64,
               "pallet_weight_kg": 1610.0
             }
@@ -222,8 +222,8 @@
               "stonemix": 3046.0332
             },
             "packaging": {
-              "pcs_per_pallet": 108,
-              "pcs_per_m2": 12.5,
+              "pieces_per_pallet": 108.0,
+              "pieces_per_m2": 12.5,
               "m2_per_pallet": 8.64,
               "pallet_weight_kg": 1610.0
             }
@@ -246,8 +246,8 @@
               "stonemix": 3037.8996
             },
             "packaging": {
-              "pcs_per_pallet": "12\n12\n12\n12\n12\n12",
-              "pcs_per_m2": "9,92\n10,03\n17,35\n11,50\n11,42\n8,23",
+              "pieces_per_pallet": "12 / 12 / 12 / 12 / 12 / 12",
+              "pieces_per_m2": "9,92 / 10,03 / 17,35 / 11,50 / 11,42 / 8,23",
               "m2_per_pallet": 6.65,
               "pallet_weight_kg": 930.0
             }
@@ -270,8 +270,8 @@
               "stonemix": 1730.4234
             },
             "packaging": {
-              "pcs_per_pallet": 768,
-              "pcs_per_m2": 50,
+              "pieces_per_pallet": 768.0,
+              "pieces_per_m2": 50.0,
               "m2_per_pallet": 15.36,
               "pallet_weight_kg": 1475.0
             }
@@ -288,8 +288,8 @@
               "stonemix": 2336.3766
             },
             "packaging": {
-              "pcs_per_pallet": 576,
-              "pcs_per_m2": 50,
+              "pieces_per_pallet": 576.0,
+              "pieces_per_m2": 50.0,
               "m2_per_pallet": 11.52,
               "pallet_weight_kg": 1560.0
             }
@@ -312,8 +312,8 @@
               "stonemix": 1730.4234
             },
             "packaging": {
-              "pcs_per_pallet": "168\n112",
-              "pcs_per_m2": "25\n16,7",
+              "pieces_per_pallet": "168 / 112",
+              "pieces_per_m2": "25 / 16,7",
               "m2_per_pallet": 13.44,
               "pallet_weight_kg": 1290.0
             }
@@ -330,8 +330,8 @@
               "stonemix": 2336.3766
             },
             "packaging": {
-              "pcs_per_pallet": "144\n96",
-              "pcs_per_m2": "25\n16,7",
+              "pieces_per_pallet": "144 / 96",
+              "pieces_per_m2": "25 / 16,7",
               "m2_per_pallet": 11.52,
               "pallet_weight_kg": 1560.0
             }
@@ -354,8 +354,8 @@
               "stonemix": 2336.3766
             },
             "packaging": {
-              "pcs_per_pallet": 384,
-              "pcs_per_m2": 33.33,
+              "pieces_per_pallet": 384.0,
+              "pieces_per_m2": 33.33,
               "m2_per_pallet": 11.52,
               "pallet_weight_kg": 1560.0
             }
@@ -378,8 +378,8 @@
               "stonemix": 2462.4474
             },
             "packaging": {
-              "pcs_per_pallet": "180\n252\n252",
-              "pcs_per_m2": "138,89\n69,44\n46,29",
+              "pieces_per_pallet": "180 / 252 / 252",
+              "pieces_per_m2": "138,89 / 69,44 / 46,29",
               "m2_per_pallet": 10.37,
               "pallet_weight_kg": 1370.0
             }
@@ -405,7 +405,9 @@
           "stonemix": 619.1703
         },
         "packaging": {
-          "pcs_per_pallet": 36,
+          "pieces_per_pallet": 36.0,
+          "pieces_per_meter": 1.0,
+          "meters_per_pallet": 36.0,
           "pallet_weight_kg": 1340.0
         }
       },
@@ -423,7 +425,9 @@
           "stonemix": "-"
         },
         "packaging": {
-          "pcs_per_pallet": 15,
+          "pieces_per_pallet": 15.0,
+          "pieces_per_meter": 1.0,
+          "meters_per_pallet": 15.0,
           "pallet_weight_kg": 1500.0
         }
       },
@@ -441,7 +445,9 @@
           "stonemix": "-"
         },
         "packaging": {
-          "pcs_per_pallet": 12,
+          "pieces_per_pallet": 12.0,
+          "pieces_per_meter": 1.0,
+          "meters_per_pallet": 12.0,
           "pallet_weight_kg": 1450.0
         }
       }
