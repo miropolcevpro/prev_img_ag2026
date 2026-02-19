@@ -7,7 +7,7 @@
   },
   {
     "id": "bruschatka",
-    "name": "Брусчатка",
+    "name": "Брусчатка (80мм)",
     "preview": "forms/bruschatka/preview.webp",
     "image": "forms/bruschatka/image.webp"
   },
@@ -49,7 +49,7 @@
   },
   {
     "id": "promenad_i",
-    "name": "Променад  I",
+    "name": "Променад I (40–60мм)",
     "preview": "forms/promenad_i/preview.webp",
     "image": "forms/promenad_i/image.webp"
   },
