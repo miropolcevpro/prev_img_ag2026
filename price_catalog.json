@@ -37,24 +37,6 @@
         "name": "Брусчатка",
         "thickness": [
           {
-            "mm": 60,
-            "prices": {
-              "grey": 970.9485,
-              "mono_color1": 1168.1883,
-              "mono_color2": 1273.9251,
-              "colormix_2": 1576.9017,
-              "colormix_3": 1744.6572,
-              "colormix_fakt": 1780.2417,
-              "stonemix": 2336.3766
-            },
-            "packaging": {
-              "pcs_per_pallet": 576,
-              "pcs_per_m2": 50,
-              "m2_per_pallet": 11.52,
-              "pallet_weight_kg": 1560.0
-            }
-          },
-          {
             "mm": 80,
             "prices": {
               "grey": 1188.5223,
@@ -472,9 +454,7 @@
       "желтый-яркий"
     ],
     "grey_name": [
-      "серый",
-      "Серые оттенки",
-      "Серые_оттенки"
+      "серый"
     ]
   }
 }
